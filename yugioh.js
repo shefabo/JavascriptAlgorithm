@@ -32,10 +32,7 @@ function checkYuGiOh(n) {
        }  
     }
     console.log(results)
-    return
+    return(results)
  }
 
- checkYuGiOh(2)
- checkYuGiOh(3)
- checkYuGiOh("fizbuzz is meh")
- checkYuGiOh(10)
+ 
